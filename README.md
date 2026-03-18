@@ -41,16 +41,16 @@ Desenvolvimento de ferramentas para simplificar fluxos fiscais burocráticos. S�
 
 ## 📈 Estatísticas de Desenvolvimento
 
-\<p align="left"\>
-\<img height="170em" src="[https://github-readme-stats.vercel.app/api?username=Renata5207418\&show\_icons=true\&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=Renata5207418&show_icons=true&theme=tokyonight)"/\>
-\<img height="170em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Renata5207418\&layout=compact\&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=Renata5207418&layout=compact&theme=tokyonight)"/\>
-\</p\>
+<p align="left">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Renata5207418&show_icons=true&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renata5207418&layout=compact&theme=tokyonight" />
+</p>
 
 -----
 
 ## 📫 Vamos conectar?
 
-  * **LinkedIn:** [Renata Scharf]([https://www.google.com/search?q=https://www.linkedin.com/in/seulink](https://br.linkedin.com/in/renata-scharf-22b042207))
+  * **LinkedIn:** [Renata Scharf](https://br.linkedin.com/in/renata-scharf-22b042207)
   * **E-mail:** [renata.boppre@gmail.com](mailto:renata.boppre@gmail.com)
   * **GitHub:** [github.com/Renata5207418](https://github.com/Renata5207418)
 
