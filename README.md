@@ -13,32 +13,6 @@ Acredito que a tecnologia deve ser o motor que remove a sobrecarga de tarefas re
   * **Dados & Cloud:** Gestão de bancos de dados NoSQL (MongoDB) e relacionais (SQL Server/Sybase). Integração com serviços de nuvem AWS (S3) e manipulação de grandes volumes de dados com Pandas.
   * **Ferramentas:** Git para versionamento, Docker para containerização e ambiente Linux.
 
------
-
-## 🏆 Projetos em Destaque
-
-### 📊 Fiscal Core - Ecossistema Contábil de Alta Performance
-
-**Arquitetura Monorepo | Resiliência | Cloud Computing**
-
-Este é um dos meus projetos mais estratégicos. Desenvolvi uma plataforma corporativa completa para gestão fiscal que integra bancos de dados legados (Sybase/Domínio) com armazenamento em nuvem (AWS S3) e APIs governamentais.
-
-  * **Principais entregas técnicas:**
-      * **Arquitetura de Filas:** Utilização de MongoDB para orquestração de filas de processamento, garantindo escalabilidade para centenas de operações simultâneas.
-      * **Trava de Segurança (Compliance):** Lógica de validação cruzada entre ERP e retornos de APIs em tempo real, mitigando erros humanos em guias fiscais.
-      * **Dashboard Executivo:** Interface em React com lógica de "Mês de Competência vs. Execução", essencial para o fluxo de caixa contábil.
-      * **Sincronização em Nuvem:** Implementação de multi-threading em Python para otimização de upload de arquivos para a AWS.
-
------
-
-### 📑 Emissor de NFS-e & Processamento XML
-
-Desenvolvimento de ferramentas para simplificar fluxos fiscais burocráticos. São sistemas que realizam a comunicação com diversos serviços de emissão e executam a leitura, extração e organização automatizada de dados de milhares de documentos XML.
-
-  * **Tecnologias:** Python, Node.js, React e Parsing de documentos estruturados.
-
------
-
 ## 📈 Estatísticas de Desenvolvimento
 
 <p align="left">
