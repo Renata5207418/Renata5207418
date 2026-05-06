@@ -1,4 +1,4 @@
-# 🚀 Olá, eu sou a Renata Scharf\!
+# 🚀 Olá, eu sou a Renata Scharf!
 
 Sou desenvolvedora **Fullstack** e trabalho transformando processos manuais e complexos em soluções digitais fluidas. Meu foco principal é a construção de arquiteturas robustas com **Python**, aliadas a interfaces modernas e intuitivas em **React**.
 
@@ -15,10 +15,10 @@ Acredito que a tecnologia deve ser o motor que remove a sobrecarga de tarefas re
 
 ## 📈 Estatísticas de Desenvolvimento
 
-<p align="left">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Renata5207418&show_icons=true&theme=tokyonight" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renata5207418&layout=compact&theme=tokyonight" />
-</p>
+<div align="left">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Renata5207418&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renata5207418&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 -----
 
