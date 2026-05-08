@@ -1,10 +1,11 @@
 # 🚀 Olá, eu sou a Renata Scharf!
 
-Sou desenvolvedora **Fullstack** e trabalho transformando processos manuais e complexos em soluções digitais fluidas. Meu foco principal é a construção de arquiteturas robustas com **Python**, aliadas a interfaces modernas e intuitivas em **React**.
+Desenvolvedora **Fullstack** com foco em **Python, React, automação de processos e integração de sistemas**.
 
-Acredito que a tecnologia deve ser o motor que remove a sobrecarga de tarefas repetitivas. Por isso, especializei minha atuação em **automação de processos, integração de APIs e arquitetura de dados**, sempre buscando o equilíbrio entre um código limpo e entregas que gerem valor real para o negócio.
+Gosto de criar soluções que simplificam rotinas, conectam ferramentas e transformam processos manuais em aplicações mais rápidas, organizadas e fáceis de usar.
 
----
+Tenho trabalhado principalmente com **backends em Python**, **APIs**, **automação**, **tratamento de dados** e interfaces modernas com **React**. Meu objetivo é escrever código claro, útil e pensado para resolver problemas reais.
+
 
 ## 💻 Stack Tecnológica e Expertise
 
@@ -22,7 +23,6 @@ Acredito que a tecnologia deve ser o motor que remove a sobrecarga de tarefas re
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
 </div>
----
 
 ## 📈 Estatísticas de Desenvolvimento
 
@@ -31,10 +31,15 @@ Acredito que a tecnologia deve ser o motor que remove a sobrecarga de tarefas re
   <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Renata5207418&theme=tokyonight" />
 </p>
 
----
 
 ## 📫 Vamos conectar?
 
-- **LinkedIn:** [Renata Scharf](https://br.linkedin.com/in/renata-scharf-22b042207)
-- **E-mail:** [renata.boppre@gmail.com](mailto:renata.boppre@gmail.com)
-- **GitHub:** [github.com/Renata5207418](https://github.com/Renata5207418)
+<div align="left">
+  <a href="https://br.linkedin.com/in/renata-scharf-22b042207" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Renata%20Scharf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:renata.boppre@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-renata.boppre%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
