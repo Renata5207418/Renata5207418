@@ -8,11 +8,20 @@ Acredito que a tecnologia deve ser o motor que remove a sobrecarga de tarefas re
 
 ## 💻 Stack Tecnológica e Expertise
 
-- **Backend:** Domínio em Python, FastAPI, Flask, Node.js e desenvolvimento de automações RPA.
-- **Frontend:** Experiência em React, TypeScript, JavaScript e estilização com Tailwind CSS.
-- **Dados & Cloud:** Gestão de bancos de dados NoSQL, MongoDB, e relacionais, SQL Server/Sybase. Integração com serviços de nuvem AWS S3 e manipulação de grandes volumes de dados com Pandas.
-- **Ferramentas:** Git para versionamento, Docker para containerização e ambiente Linux.
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,js,ts,react,html,css,tailwind,docker,git,github,linux,mongodb,mysql,aws,vite" />
+</div>
 
+<br/>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/RPA-6A5ACD?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+</div>
 ---
 
 ## 📈 Estatísticas de Desenvolvimento
