@@ -7,6 +7,7 @@ Gosto de criar soluções que simplificam rotinas, conectam ferramentas e transf
 Tenho trabalhado principalmente com **backends em Python**, **APIs**, **automação**, **tratamento de dados** e interfaces modernas com **React**. Meu objetivo é escrever código claro, útil e pensado para resolver problemas reais.
 
 
+
 ## 💻 Stack Tecnológica e Expertise
 
 <div align="left">
@@ -24,6 +25,7 @@ Tenho trabalhado principalmente com **backends em Python**, **APIs**, **automaç
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
 </div>
 
+
 ## 📈 Estatísticas de Desenvolvimento
 
 <p align="left">
@@ -35,11 +37,17 @@ Tenho trabalhado principalmente com **backends em Python**, **APIs**, **automaç
 ## 📫 Vamos conectar?
 
 <div align="left">
-  <a href="https://br.linkedin.com/in/renata-scharf-22b042207" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Renata%20Scharf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/renata-scharf-22b042207/">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-Ver%20perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+    />
   </a>
-
-  <a href="mailto:renata.boppre@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-renata.boppre%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <br/>
+  <a href="mailto:renata.boppre@gmail.com?subject=Contato%20pelo%20GitHub&body=Olá%20Renata,%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar.">
+    <img 
+      src="https://img.shields.io/badge/E--mail-Enviar%20mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="E-mail"
+    />
   </a>
 </div>
