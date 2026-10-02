@@ -1,14 +1,12 @@
-# 🚀 Olá, eu sou a Renata Scharf!
+# <img src="https://api.iconify.design/lucide/user-round.svg?color=%236A5ACD" width="28" align="center" /> Olá, eu sou a Renata Scharf!
 
 Desenvolvedora **Fullstack** com foco em **Python, React, automação de processos e integração de sistemas**.
 
 Gosto de criar soluções que simplificam rotinas, conectam ferramentas e transformam processos manuais em aplicações mais rápidas, organizadas e fáceis de usar.
 
-Tenho trabalhado principalmente com **backends em Python**, **APIs**, **automação**, **tratamento de dados** e interfaces modernas com **React**. Meu objetivo é escrever código claro, útil e pensado para resolver problemas reais.
+Tenho trabalhado e estudado principalmente com **backends em Python**, **APIs**, **automação**, **tratamento de dados** e interfaces modernas com **React**. Meu objetivo é escrever código claro, útil e pensado para resolver problemas reais, e atualmente estou adicionando **Cibersegurança** ao meu roadmap (quem sabe uma futura hacker? <img src="https://api.iconify.design/lucide/ghost.svg?color=%236A5ACD" width="20" align="center" />).
 
-
-
-## 💻 Stack Tecnológica e Expertise
+## <img src="https://api.iconify.design/lucide/monitor.svg?color=%236A5ACD" width="26" align="center" /> Stack Tecnológica e Expertise
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask,js,ts,react,html,css,tailwind,docker,git,github,linux,mongodb,mysql,aws,vite" />
@@ -17,6 +15,7 @@ Tenho trabalhado principalmente com **backends em Python**, **APIs**, **automaç
 <br/>
 
 <div align="left">
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=security&logoColor=white" />
   <img src="https://img.shields.io/badge/RPA-6A5ACD?style=for-the-badge&logo=robotframework&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
@@ -25,16 +24,14 @@ Tenho trabalhado principalmente com **backends em Python**, **APIs**, **automaç
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
 </div>
 
-
-## 📈 Estatísticas de Desenvolvimento
+## <img src="https://api.iconify.design/lucide/trending-up.svg?color=%236A5ACD" width="26" align="center" /> Estatísticas de Desenvolvimento
 
 <p align="left">
   <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Renata5207418&theme=tokyonight" />
   <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Renata5207418&theme=tokyonight" />
 </p>
 
-
-## 📫 Vamos conectar?
+## <img src="https://api.iconify.design/lucide/mail.svg?color=%236A5ACD" width="26" align="center" /> Vamos conectar?
 
 <div align="left">
   <a href="https://www.linkedin.com/in/renata-scharf-22b042207/">
